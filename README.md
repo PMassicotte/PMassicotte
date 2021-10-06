@@ -1,2 +1,1 @@
-
-![Metrics](https://raw.githubusercontent.com/PMassicotte/PMassicotte/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/PMassicotte/PMassicotte/blob/main/github-metrics.svg)
