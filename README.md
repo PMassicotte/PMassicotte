@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## My name is Philippe Massicotte
+# Hi there 👋, my name is Philippe Massicotte
 
 As a numerical ecologist, my research interests focus on: 
 
