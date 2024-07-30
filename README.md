@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Philippe Massicotte
 
-As a numerical ecologist, my research interests focus on: 
+As a numerical ecologist, my research interests focus on:
 
 - Understanding how surrounding landscapes of aquatic ecosystems determine the biogeocycling of dissolved organic matter (DOM).
 
